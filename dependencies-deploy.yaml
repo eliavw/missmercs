@@ -5,10 +5,13 @@ channels:
   - pytorch
 dependencies:
   - python>=3.6
-  - pip
-  - numpy
-  - scipy
-  - pandas
-  - ipython
-  - matplotlib
-  - scikit-learn
+  - pip:
+    - numpy
+    - scipy
+    - pandas
+    - ipython
+    - matplotlib
+    - scikit-learn
+    - dask[distributed]
+    - tqdm
+    - mercs
