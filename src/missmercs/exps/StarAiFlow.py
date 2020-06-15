@@ -6,7 +6,6 @@ from pathlib import Path
 import mercs
 import numpy as np
 import pandas as pd
-
 from mercs import Mercs
 from mercs.utils.encoding import code_to_query, query_to_code
 from sklearn.metrics import (
