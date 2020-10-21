@@ -14,7 +14,7 @@ An open-access pdf can be found [here](https://lirias.kuleuven.be/retrieve/58395
 
 Essentially, this work is an extension of the MERCS-framework, which is then applied to the problem of making predictions while missing values are present in your data. 
 
-The MERCS package (with the extensions as described in this work already integrated!) can be found [here](https://github.com/eliavw/mercs)
+The ``MERCS`` package (with the extensions as described in this work already integrated!) can be found [here](https://github.com/eliavw/mercs)
 
 ## Experiments
 
