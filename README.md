@@ -1,22 +1,28 @@
-# missmercs
+# Missing Value Imputation with MERCS
 
-Add a short description here!
+Repo related to our paper presented at Discovery Science 2020.
 
 ## Description
 
-A longer description of your project goes here...
+Here you find the code related to our paper presented at Discovery Science 2020: 
 
-## Usage
+> Van Wolputte E., Blockeel H. (2020) Missing Value Imputation with MERCS: A Faster Alternative to MissForest. In: Appice A., Tsoumakas G., Manolopoulos Y., Matwin S. (eds) Discovery Science. DS 2020. Lecture Notes in Computer Science, vol 12323. Springer, Cham. https://doi.org/10.1007/978-3-030-61527-7_33
 
-For a local install, `cd` to the root of this repository and simply; 
+## MERCS
 
-```
-python setup.py develop
-```
+Essentially, this work is an extension of the MERCS-framework, which is then applied to the problem of making predictions while missing values are present in your data. 
 
-## Documentation
+The MERCS package can be found [here](https://github.com/eliavw/mercs)
 
-Documentation should be available at [https://eliavw.github.io/missmercs](https://eliavw.github.io/missmercs).
+## Experiments
+
+COMING SOON.
+
+## Docs
+
+COMING SOON 
+
+Documentation available at [https://eliavw.github.io/missmercs](https://eliavw.github.io/missmercs).
 
 ## Administration
 
