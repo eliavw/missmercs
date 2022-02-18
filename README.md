@@ -16,15 +16,6 @@ Essentially, this work is an extension of the MERCS-framework ([paper](https://l
 
 The ``MERCS`` package (with the extensions as described in this work already integrated!) can be found [here](https://github.com/eliavw/mercs).
 
-## Experiments
-
-COMING SOON.
-
-## Docs
-
-COMING SOON 
-
-Documentation available at [https://eliavw.github.io/missmercs](https://eliavw.github.io/missmercs).
 
 ## Administration
 
